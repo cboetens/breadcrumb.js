@@ -9,9 +9,9 @@ Add breadcrumb.js or breadcrumb.min.js as a script.
 ### Options + initialize
 
 #### Options
-Container -> Add a classname here where you want your breadcrumbs to come.
-Divider -> How does your divider look like? Add it here.
-cssClass -> Adds a class to your breadcrumbs-list.
+Container -> Add a classname here where you want your breadcrumbs to come. <Enter>
+Divider -> How does your divider look like? Add it here. <Enter>
+cssClass -> Adds a class to your breadcrumbs-list. <Enter>
 
 var breadCrumb = new Breadcrumb('breadcrumb', '/', 'breadcrumb-style');
 breadCrumb.init();
