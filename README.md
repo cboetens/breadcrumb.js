@@ -17,7 +17,7 @@ var breadCrumb = new Breadcrumb('breadcrumb', '/', 'breadcrumb-style');
 breadCrumb.init();
 
 ### Extra comment
-This class is far from ready, but it's a first start. I will update this class regularly. If you have any comment or feedback, please let me know!
+This class is far from ready, but it's a first start. I will update this class regularly. If you have any comments or feedback, please let me know!
 
 Thanks!
 
