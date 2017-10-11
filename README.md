@@ -8,8 +8,6 @@ Add breadcrumb.js or breadcrumb.min.js as a script.
 
 ### Options + initialize
 
-// eerste paramater -> className, tweede parameter -> divider, css-class
-
 #### Options
 Container -> Add a classname here where you want your breadcrumbs to come.
 Divider -> How does your divider look like? Add it here.
